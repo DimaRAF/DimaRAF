@@ -1,6 +1,6 @@
 # About Me
 
-Welcome to my personal repository — a living archive of my journey as a **final-year Software Engineering student** passionate about turning innovative ideas into real solutions.
+Welcome to my personal repository — a living archive of my journey as a **Software Engineering** passionate about turning innovative ideas into real solutions.
 
 ##  About Me
 Software Engineer with First-Class Honors (GPA 4.99/5), passionate about building intelligent, scalable, and real-world systems that combine solid software engineering with applied machine learning.
